@@ -42,8 +42,24 @@ This ensures that **only valid board configurations** are generated.
 
 ---
 
-## 📤 Program Output
-![Program Output Screenshot](screenshots/output.png)
+## 📤 Program Output (Terminal Screenshot Representation)
+
+```text
+Enter value of N: 4
+
+Total Solutions = 2
+
+Solution 1:
+.Q..
+...Q
+Q...
+..Q.
+
+Solution 2:
+..Q.
+Q...
+...Q
+.Q..
 
 ---
 
